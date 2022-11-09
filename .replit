@@ -1,0 +1,3 @@
+
+language = "nodejs"
+run = "cd Vanda-MD && rm -rf session.json && rm -rf store.json && npm start"
